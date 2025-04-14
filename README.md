@@ -1,1 +1,2 @@
 # AtharvaChile-Employee-Management-System
+This project is a front-end web application built using React, Vite, and Tailwind CSS. It provides a modern and responsive interface for managing employee-related data efficiently. The project is structured with modular components and uses PostCSS with Autoprefixer for enhanced styling capabilities. ESLint is configured to ensure code quality throughout development.
